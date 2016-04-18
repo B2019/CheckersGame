@@ -4,7 +4,7 @@ import javax.swing.*;
 
 /**
  * CheckersGameView.java
- * <p>GUI view class for checkers game. Creates JApplet and adds info, board and drag panels to it along with the menu.</p>
+ * GUI view class for checkers game. Creates JApplet and adds info, board and drag panels to it along with the menu.
  *
  * @author Francis Poole
  * @version 1.0, 04/01/15

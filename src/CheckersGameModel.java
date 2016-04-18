@@ -1,12 +1,12 @@
-/** To Do
- * - Read through and check commenting
- * - Make into Model-View-Controller
- * - Center board and make sort out window size problems
- * - Import help text from a file
- * - check overides
- * - on player 2 cant move then stop from moving player 1!
- * - add difficulty values
- * - make getters and setters
+/** TODO
+ * Read through and check commenting
+ * Make into Model-View-Controller
+ * Center board and make sort out window size problems
+ * Import help text from a file
+ * check overides
+ * on player 2 cant move then stop from moving player 1!
+ * add difficulty values
+ * make getters and setters
  */
 
 
@@ -16,6 +16,7 @@ import java.util.Vector;
 import java.util.Stack;
 
 /**
+ * CheckersGameModel.java
  * Game model class for checkers. Contains board node that is in play and handles user moves along with AI moves (using
  * the get successor function).
  *
